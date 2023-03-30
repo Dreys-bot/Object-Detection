@@ -1,0 +1,9 @@
+bodywear_femme_AfriqueCentrale 
+bodywear_femme_AmeriqueLatine
+bodywear_femme_AsieEst 
+bodywear_femme_ContinentPakindia
+bodywear_femme_EuropeEst
+bodywear_femme_EuropeOuest 
+bodywear_femme_MoyenOrient
+
+
